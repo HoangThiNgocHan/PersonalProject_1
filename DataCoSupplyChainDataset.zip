@@ -1,1 +1,2 @@
 git rm DataCoSupplyChainDataset.zip
+git commit -m "DataCoSupplyChainDataset.zip"
